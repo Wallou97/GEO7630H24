@@ -1,0 +1,323 @@
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|Current FME version: FME 2022.2.6.0 (20230523 - Build 22800 - WIN64)
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME\'
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|FME for May (node locked-crc)
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|Serial Number: 0
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|Temporary License: 87 days left.
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|Machine host name is: LAPTOP-F632MH8B
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|OS Locale Name     : fr_FR
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|OS Locale Encoding : windows-1252
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|Process Encoding   : UTF-8
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|FME API version: '4.0 20220615'
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\Users\walyd\OneDrive\Bureau\FMETP\TPs\TP2/'
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'TP2.fmw'
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2022.2.6.0'
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|Operating System: Microsoft Windows 11 64-bit  (Build 22631)
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|FME Platform: WIN64
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|System Status: 260.03 GB of disk space available in the FME temporary folder (C:\Users\walyd\AppData\Local\Temp\wbrun_1709842899446_23132\fmetmp_1)
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|System Status: 13.95 GB of physical memory available
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|System Status: 55.79 GB of virtual memory available
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|START - ProcessID: 16576, peak process memory usage: 67812 kB, current process memory usage: 67812 kB
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME\fme.exe' `C:/Users/walyd/OneDrive/Bureau/FMETP/TPs/TP2\wb-xlate-1709844486752_23132' `LOG_STANDARDOUT' `YES' `LOG_TIMINGS' `YES' `LogCountServerName' `50998' `LOG_STANDARDOUT' `No' `WORKBENCH_LOG_SERVER' `50867'
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|FME Configuration: Connection Storage: 'C:\Users\walyd\AppData\Roaming\Safe Software\FME\'
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|Shared folders for formats are : C:\Program Files\FME\datasources;C:\Users\walyd\OneDrive\Documents\FME\Formats
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|Shared folders for transformers are : C:\Users\walyd\AppData\Roaming\Safe Software\FME\Packages\22800-win64\transformers;C:\Program Files\FME\transformers;C:\Users\walyd\AppData\Roaming\Safe Software\FME\FME Store\Transformers
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|Shared folders for coordinate systems are : C:\Users\walyd\OneDrive\Documents\FME\CoordinateSystems
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|Shared folders for coordinate system exceptions are : C:\Users\walyd\OneDrive\Documents\FME\CoordinateSystemExceptions
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|Shared folders for coordinate system grid overrides are : C:\Users\walyd\OneDrive\Documents\FME\CoordinateSystemGridOverrides
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : C:\Users\walyd\OneDrive\Documents\FME\CsmapTransformationExceptions
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|Shared folders for transformer categories are : C:\Users\walyd\OneDrive\Documents\FME\TransformerCategories
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|FME Configuration: Current working folder is `C:\Users\walyd\OneDrive\Bureau\FMETP\TPs\TP2'
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\walyd\AppData\Local\Temp\wbrun_1709842899446_23132\fmetmp_1', set from environment variable `FME_TEMP'
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|FME Configuration: Cache folder is 'C:\Users\walyd\AppData\Local\Temp'
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME\'
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|FME Configuration: Start freeing memory when the process exceeds 41.85 GB
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|FME Configuration: Stop freeing memory when the process is below 31.38 GB
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|Creating writer for format: 
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|Creating reader for format: 
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding CSV2 Reader with keyword CSV2_4
+2024-03-07 15:48:10|   0.0|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
+2024-03-07 15:48:11|   0.1|  0.1|INFORM|The workspace does not contain user Python. FME will attempt to use a Python 3.10+ interpreter
+2024-03-07 15:48:11|   0.1|  0.0|INFORM|Using Python interpreter from `C:\Program Files\FME\fmepython310\python310.dll' with PYTHONHOME `C:\Program Files\FME\fmepython310'
+2024-03-07 15:48:11|   0.1|  0.0|INFORM|Python version 3.10 loaded successfully
+2024-03-07 15:48:11|   0.4|  0.3|INFORM|Potentially retrieving dataset 'https://donnees.montreal.ca/dataset/f170fecc-18db-44bc-b4fe-5b0b6d2c7297/resource/65a37da8-a7cf-4812-a3b5-5edff31c45f6/download/comptage_velo_2023.csv' for reader CSV2_4
+2024-03-07 15:48:36|   0.5|  0.1|INFORM|Retrieved file C:\Users\walyd\AppData\Local\Temp\wbrun_1709842899446_23132\fmetmp_1\TempFS_1709844491092_16576\comptage_velo_2023.csv for reader CSV2_4
+2024-03-07 15:48:36|   0.5|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2024-03-07 15:48:36|   0.6|  0.1|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV2'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|Loaded module 'CSV2' from file 'C:\Program Files\FME\plugins/CSV2.dll'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|FME API version of module 'CSV2' matches current internal version (4.0 20220615)
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Opening dataset 'C:\Users\walyd\AppData\Local\Temp\wbrun_1709842899446_23132\fmetmp_1\TempFS_1709844491092_16576\comptage_velo_2023.csv'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_TRIM_FEATURE_TYPE_NAME' has the value 'Yes'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_SUPPORTED_READER_ARCHIVE_EXTENSIONS' has the value 'csv.gz,txt.gz'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_DELIMITER' has the value 'auto'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_FIELD_NAMES_LINE' has the value '1'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_DATA_START_LINE' has the value '2'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_SCAN_MAX_ROWS' has the value '10000'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_READ_SKIPPED_LINES' has the value 'No'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_ENCODING' has the value 'windows-1252'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive 'FME_NAMES_ENCODING' has the value 'UTF-8'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_SKIP_DUPLICATE_DELIMITERS' has the value 'No'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_FIELD_QUALIFIER_CHARACTER' has the value '"'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_FIELD_QUALIFIER_ESCAPE_CHARACTER' has the value '"'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_TRIM_FIELD_NAME_QUALIFIERS' has the value 'Yes'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_TRIM_FIELD_VALUE_QUALIFIERS' has the value 'Yes'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_PRESERVE_SOURCE_ENCODING' has the value 'No'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_CASE_SENSITIVE_FIELD_NAMES' has the value 'Yes'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_ENFORCE_STRICT_SCHEMA' has the value 'No'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_SCAN_TYPES' has the value 'Yes'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_TYPE_ATTRIBUTE_HANDLING' has the value 'STANDARD_TYPES'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_STRING_TYPE_ATTRIBUTE_HANDLING' has the value 'EXPLICIT_WIDTH'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_SCAN_ADDITIONAL_FIELDS' has the value 'No'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_DATE_INPUT_FORMAT' has the value 'ISO'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_CHUNK_SIZE' has the value '100000'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_TRIM_FIELD_NAME_WHITESPACE' has the value 'Yes'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_READ_EMPTY_VALUES_AS' has the value 'Null'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|CSV reader: Directive '_REPLACE_ATTR_NAME_INVALID_CHARS' has the value 'No'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|Using MultiWriter with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME\plugins/LogCount_func.dll'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (4.0 20220615)
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|FME Configuration: Using FME Reprojection Engine
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|Loaded module 'AttributeKeeperFactory' from file 'C:\Program Files\FME\plugins/AttributeKeeperFactory.dll'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|FME API version of module 'AttributeKeeperFactory' matches current internal version (4.0 20220615)
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|Loaded module 'StatisticsCalculatorFactory' from file 'C:\Program Files\FME\plugins/StatisticsCalculatorFactory.dll'
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|FME API version of module 'StatisticsCalculatorFactory' matches current internal version (4.0 20220615)
+2024-03-07 15:48:36|   0.6|  0.0|INFORM|StatisticsCalculator (StatisticsCalculatorFactory): The following statistics will be calculated 'densité_passage.mean'
+2024-03-07 15:48:37|   3.9|  3.3|INFORM|FME Configuration: Source coordinate system for reader CSV2_4[CSV2] set to `LL-WGS84' as read from input data
+2024-03-07 15:48:37|   3.9|  0.0|INFORM|Coordinate System `LL-WGS84' parameters: CS_NAME=`LL-WGS84' DESC_NM=`WGS84 Lat/Longs' DT_NAME=`WGS84' GROUP=`LL' MAP_SCL=`1' PROJ=`LL' QUAD=`1' SCL_RED=`1' UNIT=`DEGREE'
+2024-03-07 15:48:38|   7.7|  3.8|INFORM|Spatial Index: Adding 100000 features
+2024-03-07 15:48:39|  12.3|  4.6|INFORM|CS-MAP Reprojector: Transformation will be automatically selected for 'LL-WGS84' -> 'EPSG:3857', and is not guaranteed to remain the same in future releases of FME
+2024-03-07 15:48:39|  12.6|  0.3|INFORM|Reprojector: Using transformation `WGS84_SPHERICAL_to_WGS84_FME,Inverse(Null)' when reprojecting from LL-WGS84 to EPSG:3857
+2024-03-07 15:48:40|  17.5|  4.9|INFORM|Spatial Index: Adding 100000 features
+2024-03-07 15:48:40|  19.8|  2.3|STATS |Restoring 91 feature(s) from FME feature store file `C:\Users\walyd\AppData\Local\Temp\wb-cache-TP2-tloNEr\Main_AreaCalculator -1 77 fo 0 OUTPUT  0  77f1c50e86108b2d45b0d1e2a2db1691ba2ffb0d.ffs'
+2024-03-07 15:48:46|  46.8| 27.0|INFORM|Destination Feature Type Routing Correlator: Processed 92468 features
+2024-03-07 15:48:46|  49.2|  2.4|INFORM|CSV reader: Read 200000 features
+2024-03-07 15:48:46|  51.2|  2.0|INFORM|Spatial Index: Adding 100000 features
+2024-03-07 15:48:53|  70.2| 19.0|INFORM|... Last line repeated 3 times ...
+2024-03-07 15:48:53|  70.2|  0.0|INFORM|CSV reader: Read 400000 features
+2024-03-07 15:48:54|  70.4|  0.2|INFORM|Spatial Index: Adding 100000 features
+2024-03-07 15:49:00|  75.3|  4.9|INFORM|... Last line repeated 3 times ...
+2024-03-07 15:49:00|  75.3|  0.0|INFORM|CSV reader: Read 600000 features
+2024-03-07 15:49:00|  75.4|  0.1|INFORM|Spatial Index: Adding 100000 features
+2024-03-07 15:49:06|  80.8|  5.4|INFORM|... Last line repeated 3 times ...
+2024-03-07 15:49:06|  80.8|  0.0|INFORM|CSV reader: Read 800000 features
+2024-03-07 15:49:07|  80.9|  0.1|INFORM|Spatial Index: Adding 100000 features
+2024-03-07 15:49:13|  86.3|  5.4|INFORM|... Last line repeated 3 times ...
+2024-03-07 15:49:13|  86.3|  0.0|INFORM|CSV reader: Read 1000000 features
+2024-03-07 15:49:13|  86.6|  0.3|INFORM|Spatial Index: Adding 100000 features
+2024-03-07 15:49:18|  91.1|  4.5|INFORM|... Last line repeated 3 times ...
+2024-03-07 15:49:18|  91.1|  0.0|INFORM|CSV reader: Read 1200000 features
+2024-03-07 15:49:18|  91.3|  0.2|INFORM|Spatial Index: Adding 100000 features
+2024-03-07 15:49:23|  95.9|  4.6|INFORM|... Last line repeated 3 times ...
+2024-03-07 15:49:23|  95.9|  0.0|INFORM|CSV reader: Read 1400000 features
+2024-03-07 15:49:23|  96.1|  0.2|INFORM|Spatial Index: Adding 100000 features
+2024-03-07 15:49:30| 102.8|  6.7|INFORM|... Last line repeated 5 times ...
+2024-03-07 15:49:30| 102.8|  0.0|INFORM|CSV reader: Read 1700000 features
+2024-03-07 15:49:31| 103.1|  0.3|INFORM|Spatial Index: Adding 100000 features
+2024-03-07 15:49:33| 105.2|  2.1|INFORM|Spatial Index: Adding 100000 features
+2024-03-07 15:49:33| 105.2|  0.0|INFORM|Spatial Index: Adding 8250 features
+2024-03-07 15:49:33| 105.4|  0.2|INFORM|Spatial Index: Adding 8250 features
+2024-03-07 15:49:33| 105.4|  0.0|INFORM|MULTI_READER(MULTI_READER): Done reading 1708250 features from 1 readers
+2024-03-07 15:49:33| 105.4|  0.0|INFORM|Emptying factory pipeline
+2024-03-07 15:49:33| 105.4|  0.0|STATS |Router and Unexpected Input Remover (RoutingFactory): Tested 1708250 input feature(s), wrote 1708250 output feature(s): 1708250 matched merge filters, 1708250 were routed to output, 0 could not be routed.
+2024-03-07 15:49:33| 105.4|  0.0|STATS |Unwanted Router Input Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |GEOTIFF_GEOTIFF_3 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |GEOTIFF_GEOTIFF_10 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |CSV_CSV2_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |GEOTIFF_GEOTIFF_11 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |GEOTIFF_GEOTIFF_8 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |GEOTIFF_GEOTIFF_2 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |GEOTIFF_GEOTIFF_4 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |reseau_cyclable_GEOJSON_4 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |QuartierReferenceHabitation_SHAPEFILE_4 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |GEOTIFF_GEOTIFF_5 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |GEOTIFF_GEOTIFF_6 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |v_trip_clean_livraison_GEOJSON_6 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |GEOTIFF_GEOTIFF_7 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |CSV_CSV2_4 Splitter (TeeFactory): Cloned 1708250 input feature(s) into 1708250 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |GEOTIFF_GEOTIFF_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |stm_arrets_sig_SHAPEFILE_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |stm_lignes_sig_SHAPEFILE_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |GEOTIFF_GEOTIFF_9 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |limites-terrestres_GEOJSON_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |CSV_CSV2_6 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |Reprojector_10 (TeeFactory): Cloned 1708250 input feature(s) into 1708250 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |Reprojector_10 REPROJECTED Splitter (TeeFactory): Cloned 1708250 input feature(s) into 3416500 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|STATS |AttributeCreator_3 OUTPUT Splitter (TeeFactory): Cloned 91 input feature(s) into 455 output feature(s)
+2024-03-07 15:49:33| 105.4|  0.0|INFORM|PointOnAreaOverlayer (OverlayFactory): Computing relationships between 130 input areas and 18 input points
+2024-03-07 15:49:33| 105.4|  0.0|INFORM|PointOnAreaOverlayer (OverlayFactory): 0.02% done overlaying points on areas
+2024-03-07 15:49:35| 106.8|  1.4|INFORM|Spatial Index: Adding 100000 features
+2024-03-07 15:49:38| 110.2|  3.4|INFORM|... Last line repeated 2 times ...
+2024-03-07 15:49:38| 110.2|  0.0|INFORM|PointOnAreaOverlayer (OverlayFactory): 17.62% done overlaying points on areas
+2024-03-07 15:49:40| 111.7|  1.5|INFORM|Spatial Index: Adding 100000 features
+2024-03-07 15:49:43| 115.1|  3.4|INFORM|... Last line repeated 2 times ...
+2024-03-07 15:49:43| 115.1|  0.0|INFORM|PointOnAreaOverlayer (OverlayFactory): 35.15% done overlaying points on areas
+2024-03-07 15:49:45| 116.4|  1.3|INFORM|Spatial Index: Adding 100000 features
+2024-03-07 15:49:48| 119.8|  3.4|INFORM|... Last line repeated 2 times ...
+2024-03-07 15:49:48| 119.8|  0.0|INFORM|PointOnAreaOverlayer (OverlayFactory): 52.71% done overlaying points on areas
+2024-03-07 15:49:50| 121.3|  1.5|INFORM|Spatial Index: Adding 100000 features
+2024-03-07 15:49:53| 124.9|  3.6|INFORM|... Last line repeated 2 times ...
+2024-03-07 15:49:53| 124.9|  0.0|INFORM|PointOnAreaOverlayer (OverlayFactory): 70.27% done overlaying points on areas
+2024-03-07 15:49:55| 126.3|  1.4|INFORM|Spatial Index: Adding 100000 features
+2024-03-07 15:49:59| 130.0|  3.7|INFORM|... Last line repeated 2 times ...
+2024-03-07 15:49:59| 130.0|  0.0|INFORM|PointOnAreaOverlayer (OverlayFactory): 87.83% done overlaying points on areas
+2024-03-07 15:50:00| 131.5|  1.5|INFORM|Spatial Index: Adding 100000 features
+2024-03-07 15:50:02| 133.3|  1.8|INFORM|Spatial Index: Adding 100000 features
+2024-03-07 15:50:02| 133.3|  0.0|INFORM|PointOnAreaOverlayer (OverlayFactory): 100% done overlaying points on areas
+2024-03-07 15:50:02| 133.3|  0.0|INFORM|Spatial Index: Adding 8250 features
+2024-03-07 15:50:03| 133.5|  0.2|STATS |Storing feature(s) to FME feature store file `C:\Users\walyd\OneDrive\Bureau\FMETP\TPs\TP2\TP2_log.ffs'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Null, missing, or empty string operand was found in expression '@real64(<null>/4.529109648662834)'.  Result is set to null
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Feature Type: `AttributeKeeper_OUTPUT'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(64 bit real)            : `density_passage' is <null>
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: UTF-8)          : `fme_expression_warnings{0}.attributeName' has value `density_passage'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: UTF-8)          : `fme_expression_warnings{0}.message' has value `Null, missing, or empty string operand was found in expression '@real64(<null>/4.529109648662834)'.  Result is set to null'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: UTF-8)          : `fme_expression_warnings{0}.transformerName' has value `AttributeCreator'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: UTF-8)          : `fme_feature_type' has value `QuartierReferenceHabitation'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: UTF-8)          : `fme_geometry' has value `fme_polygon'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: UTF-8)          : `fme_type' has value `fme_area'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: windows-1252)   : `nom_arr' has value `Mercierâ€“Hochelaga-Maisonneuve'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: windows-1252)   : `nom_qr' has value `DupÃ©rÃ©'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(32 bit unsigned integer): `point_count' has value `0'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(64 bit real)            : `superficie km²' has value `4.529109648662834'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Coordinate System: `EPSG:3857'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Geometry Type: IFMEPolygon
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Name(UTF-8): `shapefile'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Boundary:
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   Geometry Type: IFMELine
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   Number of Coordinates: 179 -- Coordinate Dimension: 2
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   (-8186115.306677687,5717202.184828702)(-8186118.739086236,5717217.476133083)(-8186153.458604341,5717232.3519113185)(-8186187.990103353,5717247.657245106)(-8186180.594805398,5717266.146913905)
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   (-8186162.229886444,5717312.077620163)(-8186174.404620091,5717319.389086493)(-8186215.497451738,5717344.099213262)(-8186241.731042166,5717359.866694105)(-8186349.5744234715,5717424.166172213)
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   ...Skipping coordinates...
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   (-8186276.95356276,5716949.263704608)
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   (-8186200.717663445,5716904.35363457)(-8186056.408972635,5716823.105297474)(-8186069.712892992,5716907.736719667)(-8186067.358996439,5716908.210318251)(-8186064.027647104,5716907.596142335)
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   (-8186046.168244583,5716899.972445615)(-8186046.368740257,5716900.845794908)(-8186095.384725026,5717113.301016141)(-8186115.306677687,5717202.184828702)
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |===========================================================================
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Null, missing, or empty string operand was found in expression '@real64(<null>/9.022429616652733)'.  Result is set to null
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Feature Type: `AttributeKeeper_OUTPUT'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(64 bit real)            : `density_passage' is <null>
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: UTF-8)          : `fme_expression_warnings{0}.attributeName' has value `density_passage'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: UTF-8)          : `fme_expression_warnings{0}.message' has value `Null, missing, or empty string operand was found in expression '@real64(<null>/9.022429616652733)'.  Result is set to null'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: UTF-8)          : `fme_expression_warnings{0}.transformerName' has value `AttributeCreator'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: UTF-8)          : `fme_feature_type' has value `QuartierReferenceHabitation'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: UTF-8)          : `fme_geometry' has value `fme_polygon'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: UTF-8)          : `fme_type' has value `fme_area'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: windows-1252)   : `nom_arr' has value `Mercierâ€“Hochelaga-Maisonneuve'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: windows-1252)   : `nom_qr' has value `Guybourg'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(32 bit unsigned integer): `point_count' has value `0'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(64 bit real)            : `superficie km²' has value `9.022429616652733'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Coordinate System: `EPSG:3857'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Geometry Type: IFMEPolygon
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Name(UTF-8): `shapefile'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Boundary:
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   Geometry Type: IFMELine
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   Number of Coordinates: 65 -- Coordinate Dimension: 2
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   (-8185286.030088174,5712666.968635858)(-8185225.289079253,5712834.056287412)(-8185150.022586125,5713087.757229762)(-8184925.678537439,5713951.515208455)(-8184754.401682367,5714632.599769288)
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   (-8184730.707156851,5714726.815295217)(-8184654.807066368,5714850.379875977)(-8184654.712970474,5714850.537374157)(-8184654.701206885,5714850.551693136)(-8184649.146189538,5714848.577827791)
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   ...Skipping coordinates...
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   (-8183708.20115323,5711310.869192717)(-8183990.517503693,5711097.6246550605)(-8184208.62675665,5710722.70049608)(-8184683.31373376,5709909.545607022)(-8185336.787053784,5710223.03748189)
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   (-8186073.279977646,5710569.664858619)(-8185791.768393619,5711413.624930473)(-8185399.2889431445,5712382.150556383)(-8185305.340887191,5712615.51001883)(-8185286.030088174,5712666.968635858)
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |===========================================================================
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Null, missing, or empty string operand was found in expression '@real64(<null>/7.796975703359249)'.  Result is set to null
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Logging limit reached for the preceding message. Further instances of this message will not be logged
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Feature Type: `AttributeKeeper_OUTPUT'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(64 bit real)            : `density_passage' is <null>
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: UTF-8)          : `fme_expression_warnings{0}.attributeName' has value `density_passage'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: UTF-8)          : `fme_expression_warnings{0}.message' has value `Null, missing, or empty string operand was found in expression '@real64(<null>/7.796975703359249)'.  Result is set to null'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: UTF-8)          : `fme_expression_warnings{0}.transformerName' has value `AttributeCreator'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: UTF-8)          : `fme_feature_type' has value `QuartierReferenceHabitation'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: UTF-8)          : `fme_geometry' has value `fme_polygon'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: UTF-8)          : `fme_type' has value `fme_area'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: windows-1252)   : `nom_arr' has value `Mercierâ€“Hochelaga-Maisonneuve'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(string: windows-1252)   : `nom_qr' has value `Longue-Pointe'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(32 bit unsigned integer): `point_count' has value `0'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Attribute(64 bit real)            : `superficie km²' has value `7.796975703359249'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Coordinate System: `EPSG:3857'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Geometry Type: IFMEPolygon
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Name(UTF-8): `shapefile'
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |Boundary:
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   Geometry Type: IFMELine
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   Number of Coordinates: 48 -- Coordinate Dimension: 2
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   (-8184754.401682367,5714632.599769288)(-8184925.678537439,5713951.515208455)(-8185150.022586125,5713087.757229762)(-8185225.289079253,5712834.056287412)(-8185286.030088174,5712666.968635858)
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   (-8185305.340887191,5712615.51001883)(-8185399.2889431445,5712382.150556383)(-8185791.768393619,5711413.624930473)(-8186073.279977646,5710569.664858619)(-8187241.932175079,5711156.383352601)
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   ...Skipping coordinates...
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   (-8184818.724076623,5714932.600398074)(-8184738.229624577,5714889.292536533)
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   (-8184716.938592312,5714879.850872642)(-8184654.642410293,5714850.6948652705)(-8184654.618870305,5714850.6805568915)(-8184654.701206885,5714850.551693136)(-8184654.712970474,5714850.537374157)
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |   (-8184654.807066368,5714850.379875977)(-8184730.707156851,5714726.815295217)(-8184754.401682367,5714632.599769288)
+2024-03-07 15:50:03| 133.5|  0.0|WARN  |===========================================================================
+2024-03-07 15:50:03| 133.6|  0.1|STATS |PointOnAreaOverlayer (OverlayFactory): Input Summary:  130 area(s), 1708250 point(s), and 0 line(s)
+2024-03-07 15:50:03| 133.6|  0.0|STATS |PointOnAreaOverlayer (OverlayFactory): Output Summary: 130 area(s), 1708250 point(s), and 0 line(s)
+2024-03-07 15:50:03| 133.8|  0.2|INFORM|FME Configuration: Using connection values from 'GEO7630H24' for POSTGIS_1
+2024-03-07 15:50:03| 133.8|  0.0|INFORM|Creating writer for format: PostGIS
+2024-03-07 15:50:03| 133.9|  0.1|INFORM|Trying to find a DYNAMIC plugin for writer named `POSTGIS'
+2024-03-07 15:50:03| 133.9|  0.0|INFORM|Loaded module 'POSTGIS' from file 'C:\Program Files\FME\plugins/POSTGIS.dll'
+2024-03-07 15:50:03| 133.9|  0.0|INFORM|FME API version of module 'POSTGIS' matches current internal version (4.0 20220615)
+2024-03-07 15:50:03| 133.9|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2024-03-07 15:50:03| 133.9|  0.0|INFORM|Writer `POSTGIS_1' of type `POSTGIS' using group definition keyword `POSTGIS_1_DEF'
+2024-03-07 15:50:03| 133.9|  0.0|INFORM|Opening POSTGIS writer for dataset 'GEO7630H24'...
+2024-03-07 15:50:03| 133.9|  0.0|INFORM|PostGIS client encoding: 'UTF8'
+2024-03-07 15:50:05| 133.9|  0.0|INFORM|PostgreSQL 13.13 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 7.3.1 20180712 (Red Hat 7.3.1-12), 64-bit
+2024-03-07 15:50:05| 133.9|  0.0|INFORM|3.4 USE_GEOS=1 USE_PROJ=1 USE_STATS=1
+2024-03-07 15:50:05| 133.9|  0.0|INFORM|Testing for the existence of table 'DD891050.comptage_vélo'...
+2024-03-07 15:50:06| 133.9|  0.0|INFORM|Dropping existing table 'DD891050.comptage_vélo'...
+2024-03-07 15:50:06| 133.9|  0.0|INFORM|Creating table 'DD891050.comptage_vélo'...
+2024-03-07 15:50:07| 133.9|  0.0|INFORM|POSTGIS Writer: Creating 'unquoted WKB' geometry processor for feature type 'DD891050.comptage_vélo'
+2024-03-07 15:50:07| 133.9|  0.0|INFORM|POSTGIS Writer: Creating 'streaming Bulk Copy' feature type processor for feature type 'DD891050.comptage_vélo'
+2024-03-07 15:50:07| 134.0|  0.1|INFORM|StatisticsCalculator (StatisticsCalculatorFactory): Processing complete
+2024-03-07 15:50:07| 134.0|  0.0|STATS |NullAttributeMapper (TeeFactory): Cloned 130 input feature(s) into 130 output feature(s)
+2024-03-07 15:50:11| 136.8|  2.8|STATS |Destination Feature Type Routing Correlator (RoutingFactory): Tested 1708744 input feature(s), wrote 1708744 output feature(s): 0 matched merge filters, 130 were routed to output, 1708614 could not be routed.
+2024-03-07 15:50:11| 136.8|  0.0|STATS |Final Output Nuker (TeeFactory): Cloned 1708614 input feature(s) into 0 output feature(s)
+2024-03-07 15:50:11| 136.8|  0.0|WARN  |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-07 15:50:11| 136.8|  0.0|WARN  |      Features not written - verify feature type fanout/dynamic settings
+2024-03-07 15:50:11| 136.8|  0.0|WARN  |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-07 15:50:11| 136.8|  0.0|WARN  |  (Check that fanout/dynamic feature type attribute exists and has a value)
+2024-03-07 15:50:11| 136.8|  0.0|WARN  |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-07 15:50:11| 136.8|  0.0|WARN  |                                                                       1708614
+2024-03-07 15:50:11| 136.8|  0.0|WARN  |==============================================================================
+2024-03-07 15:50:11| 136.8|  0.0|WARN  |Total features not written                                             1708614
+2024-03-07 15:50:11| 136.8|  0.0|WARN  |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-07 15:50:11| 136.8|  0.0|INFORM|Creating 'GIST' index on column "geom" of table 'DD891050.comptage_vélo'...
+2024-03-07 15:50:11| 136.8|  0.0|INFORM|Successfully closed POSTGIS database writer
+2024-03-07 15:50:11| 136.8|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-07 15:50:11| 136.8|  0.0|INFORM|Feature output statistics for `POSTGIS' writer using keyword `POSTGIS_1':
+2024-03-07 15:50:11| 136.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-07 15:50:11| 136.8|  0.0|STATS |                               Features Written
+2024-03-07 15:50:11| 136.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-07 15:50:11| 136.8|  0.0|STATS |DD891050.comptage_vélo                                                    130
+2024-03-07 15:50:11| 136.8|  0.0|STATS |==============================================================================
+2024-03-07 15:50:11| 136.8|  0.0|STATS |Total Features Written                                                     130
+2024-03-07 15:50:11| 136.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-07 15:50:11| 136.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-07 15:50:11| 136.8|  0.0|STATS |                            Features Read Summary
+2024-03-07 15:50:11| 136.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-07 15:50:11| 136.8|  0.0|STATS |CSV                                                                    1708250
+2024-03-07 15:50:11| 136.8|  0.0|STATS |==============================================================================
+2024-03-07 15:50:11| 136.8|  0.0|STATS |Total Features Read                                                    1708250
+2024-03-07 15:50:11| 136.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-07 15:50:11| 136.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-07 15:50:11| 136.8|  0.0|STATS |                           Features Written Summary
+2024-03-07 15:50:11| 136.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-07 15:50:11| 136.8|  0.0|STATS |DD891050.comptage_vélo                                                    130
+2024-03-07 15:50:11| 136.8|  0.0|STATS |==============================================================================
+2024-03-07 15:50:11| 136.8|  0.0|STATS |Total Features Written                                                     130
+2024-03-07 15:50:11| 136.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-07 15:50:11| 136.8|  0.0|WARN  |-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+2024-03-07 15:50:11| 136.8|  0.0|WARN  |-~                                                                             ~-
+2024-03-07 15:50:11| 136.8|  0.0|WARN  |-~    Feature caches have been recorded at every stage of the translation.     ~-
+2024-03-07 15:50:11| 136.8|  0.0|WARN  |-~                      To inspect the recorded features,                      ~-
+2024-03-07 15:50:11| 136.8|  0.0|WARN  |-~              click the feature cache icons next to the ports.               ~-
+2024-03-07 15:50:11| 136.8|  0.0|WARN  |-~                                                                             ~-
+2024-03-07 15:50:11| 136.8|  0.0|WARN  |-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+2024-03-07 15:50:11| 136.8|  0.0|INFORM|Translation was SUCCESSFUL with 19 warning(s) (130 feature(s) output)
+2024-03-07 15:50:11| 136.8|  0.0|STATS |Stored 3 feature(s) to FME feature store file `C:\Users\walyd\OneDrive\Bureau\FMETP\TPs\TP2\TP2_log.ffs'
+2024-03-07 15:50:11| 136.8|  0.0|INFORM|FME Session Duration: 2 minutes 0.8 seconds. (CPU: 131.1s user, 5.7s system)
+2024-03-07 15:50:11| 136.8|  0.0|INFORM|END - ProcessID: 16576, peak process memory usage: 571844 kB, current process memory usage: 153992 kB
