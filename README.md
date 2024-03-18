@@ -90,6 +90,6 @@ Limite des quartiers
  
 ![](https://lh7-us.googleusercontent.com/_YcmmzNQvHw9r_xgxzk6QPJfS0ZaXpb_jUKGJP8iZZGpuJHnQvkDUHp9Rw1TNtwLuPLptGRAWTn1HnEB4DpvAf2w-7XqXPdPEgkSVH3YuwAxU9oi5RY357KM8V679DP4mTMTouyozIry_2dJfh4z5Mo)
  
-12\.     Echec sur des données comme les densités des piste cyclables, la donnée n’est pas présente 
+12\.     Echec sur des données comme les densités des piste cyclables, la donnée n’est pas présente dans la graduation, elle apparaît en données texte, les photos aérienne ne s'affiche pas non plus 
  
 ![](https://lh7-us.googleusercontent.com/iG2yiWOgiAtv0VVbSEmgV9Y4p0p2gcFjLueoKZ6qxw4x-j-ib6GHhU9JhvrTXv0agESB-hoSt8vuprVjMZ3q_37vpL_aDjXuorRNdWdPY5ZA6_W1W5ccYnuL61mWUJ-4xf6Tk4PjfQ8LTVRwnTaGKTM)
